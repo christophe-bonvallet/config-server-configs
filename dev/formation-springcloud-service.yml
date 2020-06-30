@@ -2,13 +2,13 @@
 config:
   weatherforecast:
     summary:
-      - "Nuageux avec probabilite d'averse."
-      - "Belle journée ensoleillé."
-      - "Soleil avec passage nuageux."
-      - "De la pluie en fin de journée."
-      - "Fort orage ce soir et cette nuit."
-      - "Il pleut des hamburgers."
-      - "Aye! Fais-tu frête?"
-      - "On es-tu ben dans z'un coton ouaté?"
+      - "update Nuageux avec probabilite d'averse."
+      - "update Belle journée ensoleillé."
+      - "update Soleil avec passage nuageux."
+      - "update De la pluie en fin de journée."
+      - "update Fort orage ce soir et cette nuit."
+      - "update Il pleut des hamburgers."
+      - "update Aye! Fais-tu frête?"
+      - "update On es-tu ben dans z'un coton ouaté?"
 exemple:
   chiffrement: '{cipher}e51802b3eb95a8ca3dd6258091810503460dfc2ec307c84cd16a1a44d2580b9a'
